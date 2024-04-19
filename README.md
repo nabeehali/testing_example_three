@@ -25,7 +25,8 @@ The project is structured as follows:
 To apply build runner when use mock notation for any class in this project, Ensure that you are in the project directory before running this command in the terminal:
 
 ```bash
-flutter pub run build --delete-conflicting--outputs ```
+flutter pub run build --delete-conflicting--outputs
+ ```
 
 This project utilizes the following testing tools and libraries:
 
